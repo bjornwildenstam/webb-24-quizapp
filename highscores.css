@@ -1,0 +1,20 @@
+#highScoresList {
+    padding-left: 0;
+    margin-bottom: 4rem;
+
+
+}
+
+.high-score {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    color: rgba(0, 0, 0, 0.664);
+    padding: 0.5rem;
+}
+
+
+h1 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
